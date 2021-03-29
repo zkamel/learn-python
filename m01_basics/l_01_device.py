@@ -13,7 +13,7 @@ device = {
 }
 
 # SIMPLE PRINT
-print("\n_____ SIMPLE PRINT ____________________")
+print("\n_____ SIMPLE PRINT 123456789____________________")
 print("device:", device)
 print("device name:", device["name"])
 
